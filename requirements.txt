@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+gpt-2-simple
+python-dotenv
+redis
+tensorflow==1.15
